@@ -7,4 +7,5 @@ A Graphical Interactive Password Manager built using Python and Tkinter. This ap
 - **Password Generation**: Generate secure, random passwords.
 - **Password Storage**: Store passwords securely within the system.
 - **Clipboard Access**: Quickly copy passwords to the Windows clipboard.
+- **Password Search**: Searching for passwords by entering the website names.
 
